@@ -19,7 +19,7 @@
 <body style="background-color:#000000">
 
 <div class="wraptocenter">
-	<img src="/images/anorgy_logo_color_v2.jpg"/>
+	<img src="/images/anorgy_logo_color_v2.png"/>
 </div>
 
 </body>
